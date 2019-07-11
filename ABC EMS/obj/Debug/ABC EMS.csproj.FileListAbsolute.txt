@@ -1,0 +1,41 @@
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\bin\Debug\ABC EMS.exe.config
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\bin\Debug\ABC EMS.exe
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\bin\Debug\ABC EMS.pdb
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC EMS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.Form1.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.Properties.Resources.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC EMS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC EMS.exe
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC EMS.pdb
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.AddUser.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.Login.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.ManagerDashboard.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.AddEvent.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.ManageUser.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.CustomerDashboard.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.ManageEvents.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.Participation.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.AddParticipant.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.ManageParticipants.resources
+C:\Users\User\Desktop\Pet Projects\C#\ABC EMS\ABC EMS\obj\Debug\ABC_EMS.Manageusers.resources
+G:\Event-Management-System\ABC EMS\bin\Debug\ABC EMS.exe.config
+G:\Event-Management-System\ABC EMS\bin\Debug\ABC EMS.exe
+G:\Event-Management-System\ABC EMS\bin\Debug\ABC EMS.pdb
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC EMS.csprojAssemblyReference.cache
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.AddEvent.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.AddParticipant.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.AddUser.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.CustomerDashboard.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.Form1.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.Login.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.ManageEvents.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.ManageParticipants.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.ManagerDashboard.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.ManageUser.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.Manageusers.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.Participation.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC_EMS.Properties.Resources.resources
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC EMS.csproj.GenerateResource.cache
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC EMS.csproj.CoreCompileInputs.cache
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC EMS.exe
+G:\Event-Management-System\ABC EMS\obj\Debug\ABC EMS.pdb
